@@ -31,3 +31,9 @@ dt{
 dt::after{
     content: ":";
 }
+img{
+    width: 250px;
+    float: left;
+    margin: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
